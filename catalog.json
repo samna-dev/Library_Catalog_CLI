@@ -1,0 +1,13 @@
+{
+  "books": [
+    {"isbn": "9780132350884", "title": "Clean Code", "author": "Robert C. Martin", "copies": 3, "available": 3},
+    {"isbn": "9780135957059", "title": "The Pragmatic Programmer", "author": "Andrew Hunt", "copies": 2, "available": 2},
+    {"isbn": "9781718502703", "title": "Python Crash Course", "author": "Eric Matthes", "copies": 4, "available": 4},
+    {"isbn": "9781593279929", "title": "Automate the Boring Stuff with Python", "author": "Al Sweigart", "copies": 3, "available": 3},
+    {"isbn": "9781492056355", "title": "Fluent Python", "author": "Luciano Ramalho", "copies": 1, "available": 1},
+    {"isbn": "9780262046305", "title": "Introduction to Algorithms", "author": "Thomas H. Cormen", "copies": 2, "available": 2},
+    {"isbn": "9780201633610", "title": "Design Patterns", "author": "Erich Gamma", "copies": 2, "available": 2},
+    {"isbn": "9781593279509", "title": "Eloquent JavaScript", "author": "Marijn Haverbeke", "copies": 3, "available": 3}
+  ],
+  "members": {}
+}
